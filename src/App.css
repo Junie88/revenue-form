@@ -6,7 +6,7 @@ html {
     font-size: 16px;
   }
 }
-.groupName-input {
+#groupName-input {
     border: 1px solid #000000;
     width: 100%;
     padding: 10px 12px;
